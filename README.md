@@ -2,7 +2,5 @@
 
 ## Team members
 Luckshihaa Krishnan  
-
 Aidan Kilpatrick  
-
 Alan Amin
